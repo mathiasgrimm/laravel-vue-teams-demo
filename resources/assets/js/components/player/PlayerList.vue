@@ -7,7 +7,7 @@
         </div>
 
         <div class="panel panel-default">
-            <div class="panel-heading">Teams</div>
+            <div class="panel-heading">Players</div>
             <div class="panel-body">
                 <table class="table">
                     <thead>
