@@ -14,7 +14,7 @@ Create a database in your mysql:
 
 ```CREATE DATABASE `demo` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_bin;```
 
-Copy you ```*.env.example``` to ```.env``` and update the database credentials:
+Copy you ```.env.example``` to ```.env``` and update the database credentials:
 
 ```
 DB_CONNECTION=mysql
@@ -34,4 +34,3 @@ run ```php artisan migrate```
 run ```php artisan db:seed```
 
 run ```php artisan serve``` and point your browser to ```http://127.0.0.1:8000```
-
